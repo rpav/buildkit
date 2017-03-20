@@ -1,3 +1,7 @@
+# WIP
+
+Note this is incomplete; script integration with buildapp etc needs done, though a number of the other things work.
+
 # buildkit
 
 This is a utility kit for *binary* application building and
